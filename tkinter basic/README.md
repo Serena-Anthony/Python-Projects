@@ -4,7 +4,7 @@ This is a simple calculator application built using Python and Tkinter.
 
 ## Installation
 
-To use the calculator, you need to have Python installed on your system. Clone the repository to your local machine and run the `calculator.py` file.
+To use the calculator, you need to have Python installed on your system. Clone the repository to your local machine and run the `basic_calculator.py` file.
 
 ##GUI
 
